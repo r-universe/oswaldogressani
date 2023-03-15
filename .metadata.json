@@ -1,5 +1,9 @@
 [
   {
+    "package": "blapsr",
+    "oncran": true
+  },
+  {
     "package": "EpiLPS",
     "oncran": true
   }
